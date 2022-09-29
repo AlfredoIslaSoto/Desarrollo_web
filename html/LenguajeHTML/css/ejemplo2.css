@@ -8,7 +8,16 @@ header,
             border: solid #2067CA 1px;
             text-align: center;
             margin: 1%;
-            
+        }
+        body{
+            font-size: x-large ;
+        }
+        header{
+            background-color: #E8F2A1; margin-bottom: 20px;
+
+        }
+        header > p{
+            margin-top: -25px;
         }
 
         div {
