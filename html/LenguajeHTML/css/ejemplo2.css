@@ -1,0 +1,19 @@
+header,
+        section,
+        article,
+        aside,
+        footer,
+        nav {
+            border-radius: 20px;
+            border: solid #2067CA 1px;
+            text-align: center;
+            margin: 1%;
+            
+        }
+
+        div {
+            display: flex;
+        }
+        ul{
+            list-style: none;
+        }
