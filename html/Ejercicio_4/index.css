@@ -11,6 +11,11 @@ a{
     color: black;
     margin-left: 15px;
 }
+div >p{
+    
+        color: #FFFFFF;
+
+}
 h2{
     color: #B08F5C;
 }
