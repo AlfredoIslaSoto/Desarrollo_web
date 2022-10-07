@@ -1,11 +1,7 @@
 nav{
-    text-align: right;
-    justify-content: space-between;
     margin-right: 8%;
     margin-bottom: 2%;
-    
-   
-    
+    text-align: right;
 }
 a:hover {
     text-decoration: underline;
@@ -13,6 +9,12 @@ a:hover {
 a{
     text-decoration: none;
     color: black;
+    margin-left: 15px;
+}
+h2{
+    color: #B08F5C;
+}
+footer{
+    text-align: center;
     
-   
 }
